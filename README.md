@@ -1,4 +1,12 @@
 git-lab
 =======
-###New Features Under Development
-  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
+Representing Alice: Duncan Riefler
+riefler@usc.edu djriefler
+Tue. 2pm
+
+Representing Bob: Andrew Rishwain
+arishwai@usc.edu arishwain
+Tue. 2pm
+
+Labtocat
+>>>>>>> c2103bbb005f19e3d9e690d39b47e329b381b68d
